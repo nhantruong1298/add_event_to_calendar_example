@@ -1,4 +1,4 @@
-# add_event_to_calendar
+# add_event_to_calendar_example
 
 A new Flutter plugin project.
 
